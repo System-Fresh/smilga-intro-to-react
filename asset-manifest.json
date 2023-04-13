@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/System-Fresh/smilga-intro-to-react/static/css/main.fc7e810b.css",
+    "main.js": "/System-Fresh/smilga-intro-to-react/static/js/main.c0c1b32f.js",
+    "static/media/book3.jpg": "/System-Fresh/smilga-intro-to-react/static/media/book3.e0d08b78ac68d06c2392.jpg",
+    "static/media/book2.jpg": "/System-Fresh/smilga-intro-to-react/static/media/book2.e51a8ce37c361c856468.jpg",
+    "static/media/book1.jpg": "/System-Fresh/smilga-intro-to-react/static/media/book1.50ca0f483017a8b9b84c.jpg",
+    "index.html": "/System-Fresh/smilga-intro-to-react/index.html",
+    "main.fc7e810b.css.map": "/System-Fresh/smilga-intro-to-react/static/css/main.fc7e810b.css.map",
+    "main.c0c1b32f.js.map": "/System-Fresh/smilga-intro-to-react/static/js/main.c0c1b32f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc7e810b.css",
+    "static/js/main.c0c1b32f.js"
+  ]
+}
